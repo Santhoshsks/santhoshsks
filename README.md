@@ -27,31 +27,27 @@ class Santhosh:
             'degree': 'Bachelor of Information Technology',
             'gpa': float('inf'),
         }
+        #TODO learn stuff to append here
         self.skills = ['Python', 'Java', 'Spring Boot', 'SQL', 'TypeScript', 'React']
-        self.expertise = ['Git', 'Agile', 'OOP', 'Spring Security', 'RESTful APIs']
+        self.expertise = ['Git', 'Agile', 'OOP', 'Spring Security', f'RESTful APIs {no rest for me}']
         self.hobbies = ['Drawing', 'Working Out']
 
     def languages(self):
         return ['English', 'Tamil']
-
-santhosh = Santhosh()
-print(f"Hi, I'm {santhosh.name}!")
-print(f"I'm a student at {santhosh.education['college']} with a GPA of {santhosh.education['gpa']}.")
-print("I'm skilled in:", ", ".join(santhosh.skills))
 ```
  
 <br>
 
 ### What I always play with
 <p>
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/java-logo.png" alt="java-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/springboot-logo.png" alt="springboot-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/python-logo.png" alt="python-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/react-logo.png" alt="react-logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html-logo" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js-logo" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css-logo" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres-logo" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java-logo" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot-logo" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python-logo" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react-logo" width="30" height="30">
 </p>
 
 <br>
@@ -59,7 +55,7 @@ print("I'm skilled in:", ", ".join(santhosh.skills))
 ### Quick stats
 | Github Stats | Top Languages |
 | --- | --- |
-| ![SK's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![SK's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![SK's github stats](https://github-readme-stats.vercel.app/api?username=santhoshsks&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![SK's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshsks&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
 **Santhoshsks/santhoshsks** is a ✨ _special_ ✨ repository 
@@ -67,5 +63,5 @@ print("I'm skilled in:", ", ".join(santhosh.skills))
 
 
 
-<!--🦶FOOTER--> 
+<!--FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">

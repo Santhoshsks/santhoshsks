@@ -59,8 +59,8 @@ class Santhosh:
 | ![SK's github stats](https://github-readme-stats.vercel.app/api?username=santhoshsks&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![SK's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshsks&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
-**Santhoshsks/santhoshsks** is a ✨ _special_ ✨ repository 
-                                          - GitHub
+**Santhoshsks** is ✨ _special_ ✨ 
+- GitHub
 
 
 

@@ -29,7 +29,7 @@ class Santhosh:
         }
         #TODO learn stuff to append here
         self.skills = ['Python', 'Java', 'Spring Boot', 'SQL', 'TypeScript', 'React']
-        self.expertise = ['Git', 'Agile', 'OOP', 'Spring Security', f'RESTful APIs {no rest for me}']
+        self.expertise = ['Git', 'Agile', 'OOP', 'Spring Security', f'RESTful APIs {with_no_rest}']
         self.hobbies = ['Drawing', 'Working Out']
 
     def languages(self):
@@ -38,16 +38,17 @@ class Santhosh:
  
 <br>
 
-### What I always play with
+### What I play with
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python-logo" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java-logo" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot-logo" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres-logo" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react-logo" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html-logo" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js-logo" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css-logo" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres-logo" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java-logo" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot-logo" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python-logo" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react-logo" width="30" height="30">
+
 </p>
 
 <br>

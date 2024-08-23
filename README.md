@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Santhoshsks.santhoshsks&left_color=#f6c32c&right_color=#151515">
+<img align="right" src="https://img.shields.io/badge/Visitors-000000?style=for-the-badge&logo=GitHub&labelColor=151515&color=f6c32c">
 
 <h1 align="center">👋Hello World🌍 I'm Santhosh Kumar </h1>
 

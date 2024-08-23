@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=santhoshsks.santhoshsks" alt="visitor badge">
-<img align="right" src="https://img.shields.io/badge/Visitors-000000?style=for-the-badge&logo=GitHub&labelColor=151515&color=f6c32c" alt="custom color badge">
 
 <h1 align="center">👋Hello World🌍 I'm Santhosh Kumar </h1>
 

@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello World! I'm Santhosh Kumar </h1>
+<h1 align="center">👋Hello World🌍 I'm Santhosh Kumar </h1>
 
 <p align="center"> 
-IT engineering student by day, code wizard by night. Java, Spring Boot, Python, and SQL are my playgrounds, where I build high-performance, scalable solutions. I’m a team-oriented problem-solver who’s always ready to tackle new challenges and have fun doing it.
+With a passion for full-stack development, I am a proficient developer capable of designing and building complex applications with expertise in Python, Java, Spring Boot, React, TypeScript, and PostgreSQL.
 </p>
 
 <div align="center">

@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Santhoshsks.santhoshsks&left_color=f6c32c&right_color=151515">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Santhoshsks.santhoshsks&left_color=#f6c32c&right_color=#151515">
 
 <h1 align="center">👋Hello World🌍 I'm Santhosh Kumar </h1>
 

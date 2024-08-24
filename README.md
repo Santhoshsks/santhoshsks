@@ -24,11 +24,6 @@ class Santhosh:
             'LinkedIn': 'https://www.linkedin.com/in/santhosh-kumar-s-it',
             'GitHub': os.getcwd()
         }
-        self.education = {
-            'college': 'SSN College of Engineering, Chennai, TN, India',
-            'degree': 'Bachelor of Information Technology',
-            'gpa': float('inf'),
-        }
         #TODO learn stuff to append here
         self.skills = ['Python', 'Java', 'Spring Boot', 'SQL', 'TypeScript', 'React']
         self.expertise = ['Git', 'Agile', 'OOP', 'Spring Security', f'RESTful APIs {with_no_rest}']

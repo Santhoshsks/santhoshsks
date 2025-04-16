@@ -25,8 +25,8 @@ class Santhosh:
             'GitHub': os.getcwd()
         }
         #TODO learn stuff to append here
-        self.skills = ['Python', 'Java', 'Spring Boot', 'SQL', 'TypeScript', 'React']
-        self.expertise = ['Git', 'Agile', 'OOP', 'Spring Security', f'RESTful APIs {with_no_rest}']
+        self.skills = ['Python', 'Java', 'Spring Boot', 'SQL', 'React']
+        self.expertise = ['Git', 'Agile', 'OOP', 'FastAPI', f'RESTful APIs {with_no_rest}']
         self.hobbies = ['Drawing', 'Working Out']
 
     def languages(self):
